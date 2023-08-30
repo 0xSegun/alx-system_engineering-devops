@@ -1,1 +1,1 @@
-This is the working directory for the shell, basics project
+This script print the absolute path of the current working directory
