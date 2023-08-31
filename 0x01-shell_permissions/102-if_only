@@ -1,2 +1,2 @@
 #!/bin/bash
-chown betty hello 2>/dev/null || true
+[ "$(stat -c %U hello)" = guillaume ] && chown betty hello
