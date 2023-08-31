@@ -1,0 +1,2 @@
+chown vincent:staff _hello
+chmod 1 _hello
